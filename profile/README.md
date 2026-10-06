@@ -6,6 +6,10 @@
 
 This organization holds archived work that is no longer maintained. Most of it is private and not described here.
 
-## Public repository
+## Public repositories
 
-- [cookbook](https://github.com/romgenie-archive-repostiory/cookbook): archived; its README contains only the title, so no further description is available.
+- [.github](https://github.com/romgenie-archive-repostiory/.github): Organization profile for romgenie-archive-repostiory.
+
+## Public archived repositories
+
+- [cookbook](https://github.com/romgenie-archive-repostiory/cookbook): Archived Jupyter notebook for a harmonic swarm task-scheduling simulation; no longer maintained.
